@@ -9,3 +9,5 @@ Contains the streamflow NSE values for SAC-SMA models, LSTM and two hybrid model
 Contains the catchment attributes of CAMELS dataset 
 #### Scripts: 
 Contains the scripts to analyze the data and generate figures as produced in our manuscript. These scripts are self sufficient and do not need any additional data except for the one provided in this repository
+#### LSTM_Modelzoo: 
+Contains the scripts to build LSTM models for CAMELS catchments. These scripts should be run after downloading CAMELS database available at  https://ral.ucar.edu/sites/default/files/public/product-tool/camels-catchment-attributes-and-meteorology-for-large-sample-studies-dataset-downloads/basin_timeseries_v1p2_metForcing_obsFlow.zip
